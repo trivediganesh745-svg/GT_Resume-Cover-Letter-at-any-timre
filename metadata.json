@@ -1,0 +1,5 @@
+{
+  "name": "ATS Resume Optimizer",
+  "description": "An AI-powered application to refine your resume to be ATS-friendly based on a job description. It helps optimize keywords and phrasing, suggests new sections, and generates a tailored cover letter, all while aiming to preserve the structure of your original document. You can download the final resume in PDF and DOCX formats.",
+  "requestFramePermissions": []
+}
